@@ -3,5 +3,5 @@ pigpio==1.78
 Pillow==12.3.0
 readchar==4.0.3
 tqdm==4.64.1
-pytest==7.0.1
+pytest==9.0.3
 tk==0.1.0
