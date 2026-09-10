@@ -9,4 +9,4 @@ numpy>=1.21.6
 pigpio==1.78
 Pillow==12.3.0
 readchar==4.0.3
-tqdm==4.64.1
+tqdm==4.66.3
